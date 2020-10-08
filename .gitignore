@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-ai
+uim-ai.so
+uim-ai.dylib
+uim-ai.dll
+uim-ai.a
+uim-ai.lib
+uim-ai-test-*
+*.exe
+*.o
+*.obj
+*.lst
